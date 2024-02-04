@@ -20,10 +20,10 @@ const frameMetadata = getFrameMetadata({
 });
 
 export const metadata: Metadata = {
-  title: 'zizzamia.xyz',
+  title: 'bridgeharris.com',
   description: 'LFG',
   openGraph: {
-    title: 'zizzamia.xyz',
+    title: 'bridgeharris.com',
     description: 'LFG',
     images: [`${NEXT_PUBLIC_URL}/Coinbase-Logo-2012.png`],
   },
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <>
-      <h1>zizzamia.xyz</h1>
+      <h1>bridgeharris.com</h1>
     </>
   );
 }
