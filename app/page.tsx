@@ -5,10 +5,10 @@ import { NEXT_PUBLIC_URL } from './config';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'poachable',
+      label: 'Bridget',
     },
     {
-      label: 'Redirect to cute dog pictures',
+      label: 'many such cases',
       action: 'post_redirect',
     },
   ],
