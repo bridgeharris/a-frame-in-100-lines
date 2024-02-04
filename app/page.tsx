@@ -5,7 +5,7 @@ import { NEXT_PUBLIC_URL } from './config';
 const frameMetadata = getFrameMetadata({
   buttons: [
     {
-      label: 'Tell me the story',
+      label: 'poachable',
     },
     {
       label: 'Redirect to cute dog pictures',
