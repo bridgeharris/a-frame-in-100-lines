@@ -12,7 +12,7 @@ const frameMetadata = getFrameMetadata({
       action: 'post_redirect',
     },
   ],
-  image: `${NEXT_PUBLIC_URL}/park-1.png`,
+  image: `${NEXT_PUBLIC_URL}/Coinbase-Logo-2012.png`,
   input: {
     text: 'talk to me about crypto',
   },
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'zizzamia.xyz',
     description: 'LFG',
-    images: [`${NEXT_PUBLIC_URL}/park-1.png`],
+    images: [`${NEXT_PUBLIC_URL}/Coinbase-Logo-2012.png`],
   },
   other: {
     ...frameMetadata,
