@@ -8,13 +8,13 @@ const frameMetadata = getFrameMetadata({
       label: 'Bridget',
     },
     {
-      label: 'many such cases',
+      label: 'Ecosystem',
       action: 'post_redirect',
     },
   ],
   image: `${NEXT_PUBLIC_URL}/Coinbase-Logo-2012.png`,
   input: {
-    text: 'talk to me about crypto',
+    text: 'what do you know about crypto',
   },
   post_url: `${NEXT_PUBLIC_URL}/api/frame`,
 });
